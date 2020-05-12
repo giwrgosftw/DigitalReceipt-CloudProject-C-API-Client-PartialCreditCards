@@ -1,0 +1,42 @@
+C:\Users\kargi\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\kargi\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\kargi\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\kargi\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\kargi\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\kargi\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\kargi\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\kargi\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\kargi\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\kargi\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\kargi\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\kargi\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\kargi\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\kargi\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\kargi\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\kargi\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.App.config
+C:\Users\kargi\source\repos\WpfApp1\WpfApp1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\kargi\source\repos\WpfApp1\WpfApp1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\kargi\source\repos\WpfApp1\WpfApp1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\kargi\source\repos\WpfApp1\WpfApp1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\kargi\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\kargi\Desktop\yReceipt - Projects\WpfApp\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\kargi\Desktop\yReceipt - Projects\WpfApp\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\kargi\Desktop\yReceipt - Projects\WpfApp\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\kargi\Desktop\yReceipt - Projects\WpfApp\WpfApp1\WpfApp1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\kargi\Desktop\yReceipt - Projects\WpfApp\WpfApp1\WpfApp1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\kargi\Desktop\yReceipt - Projects\WpfApp\WpfApp1\WpfApp1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\kargi\Desktop\yReceipt - Projects\WpfApp\WpfApp1\WpfApp1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\kargi\Desktop\yReceipt - Projects\WpfApp\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.App.config
+C:\Users\kargi\Desktop\yReceipt - Projects\WpfApp\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\kargi\Desktop\yReceipt - Projects\WpfApp\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\kargi\Desktop\yReceipt - Projects\WpfApp\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\kargi\Desktop\yReceipt - Projects\WpfApp\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\kargi\Desktop\yReceipt - Projects\WpfApp\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\kargi\Desktop\yReceipt - Projects\WpfApp\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\kargi\Desktop\yReceipt - Projects\WpfApp\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\kargi\Desktop\yReceipt - Projects\WpfApp\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\kargi\Desktop\yReceipt - Projects\WpfApp\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\kargi\Desktop\yReceipt - Projects\WpfApp\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\kargi\Desktop\yReceipt - Projects\WpfApp\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\kargi\Desktop\yReceipt - Projects\WpfApp\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\kargi\Desktop\yReceipt - Projects\WpfApp\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
