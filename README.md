@@ -1,7 +1,7 @@
 # C-API-Client-PartialCards-CloudProject
 My first client programming in C# by using Visual Studio for the following API server: https://github.com/giwrgosftw/RestfulAPI-PartialCards-CloudProject
 
-A pdf file with more information is provided.  
+A pdf file with more information is provided
 
 # Scope of the task
 The C# API client exposes a GUI where: 
